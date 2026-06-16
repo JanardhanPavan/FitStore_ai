@@ -22,6 +22,8 @@ stores don't offer on their own.
 
 
 
+
+
 \## MVP Features
 
 1\. \*\*Browse/search products\*\* — core catalog browsing and search
